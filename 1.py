@@ -10,3 +10,4 @@ a = (True, True, True, True, True, True, True, True, True,
      True, True, True, True, True, True, True, True, True)
 
 print(a)
+print('hi')
